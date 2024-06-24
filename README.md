@@ -1,3 +1,11 @@
+# Poster rendering
+
+<p align="center">
+<a href="https://www.dsimonne.eu/Attachments/PosterCoherence2024PhD.pdf">
+<img src="https://www.dsimonne.eu/Attachments/PosterCoherence2024PhD.png">
+</a>
+</p>
+
 # Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 Gemini is a modern LaTeX [beamerposter] theme.
